@@ -21,6 +21,16 @@ A aplicação combina **Modelos de Machine Learning** para **prever a probabilid
 
 ---
 
+## 👥 Integrantes do Projeto:
+
+1. Belarmino Souza Santos Neto
+2. Everton Gabriel Silva de Almeida
+3. Guilherme Carneiro de Queiroz
+4. Hermes Augusto de Almeida
+5. Lucca de Sena Barbosa
+
+---
+
 ## ⚙️ Arquitetura do Sistema
 
 O projeto é dividido em **duas camadas principais**:
