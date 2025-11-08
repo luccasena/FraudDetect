@@ -1,6 +1,6 @@
-# 
 
-# 🕵️‍♂️ DFraudDetect
+
+# 🕵️‍♂️ FraudDetect
 
 ## 📘 Visão Geral  
 O **Detector de Licitações Fraudulentas** é um projeto de **Inteligência Artificial aplicada à Transparência Pública**, cujo objetivo é **identificar possíveis indícios de fraude em licitações públicas**.  
